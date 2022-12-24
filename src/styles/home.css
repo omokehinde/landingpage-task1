@@ -1,0 +1,22 @@
+
+div h3 {
+    /* position: absolute; */
+width: 486px;
+height: 78px;
+left: 477px;
+top: 191px;
+
+/* Poppins/Bold/56 */
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 56px;
+line-height: 140%;
+/* or 78px */
+
+
+/* Grayscale/Black */
+
+color: #000000;
+}
