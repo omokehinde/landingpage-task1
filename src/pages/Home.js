@@ -88,23 +88,7 @@ function Home() {
         </div>
       </div>
 
-        <div className="mt-4 p-5 jumbotron text-white">
-        <div className="row">
-          <div className="col-6">
-            <h4 className="jumbotron-h4">
-              let's discuss making your interior like a dream place!
-            </h4>
-            </div>
-          <div className="col-6">
-            <div className="col">
-              <p className="jumbotron-p">
-                Contact us below to work together to build your amazing interior
-              </p>
-              <button className='jumbotron-btn'>Contact Us</button>
-            </div>
-          </div>
-        </div>
-      </div>
+        
 
     </div>
   )
