@@ -82,27 +82,66 @@
 }
 
 .h4-nxting {
-width: 481px;
-height: 122px;
-left: 120px;
-top: 3516px;
+    width: 481px;
+    height: 122px;
+    left: 120px;
+    top: 3516px;
 
-margin-left: 40px;
+    margin-left: 40px;
 
-/* Poppins/SemiBold/36 */
+    /* Poppins/SemiBold/36 */
 
-font-family: 'Poppins';
-font-style: normal;
-font-weight: 600;
-font-size: 36px;
-line-height: 170%;
-/* or 61px */
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 36px;
+    line-height: 170%;
+    /* or 61px */
 
 
-/* Grayscale/50 */
+    /* Grayscale/50 */
 
-color: #333333;
+    color: #333333;
 
+}
+
+.label-h4 {
+    width: 100%;
+
+    /* Poppins/Regular/18 */
+
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 160%;
+    /* identical to box height, or 29px */
+
+
+    /* Grayscale/50 */
+
+    color: #333333;
+}
+
+.follow-p {
+    width: 100px;
+    height: 26px;
+    left: 1117px;
+    top: 3616px;
+
+    /* Poppins/Regular/16 */
+
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 160%;
+    /* identical to box height, or 26px */
+
+
+    /* Grayscale/50 */
+
+    color: #333333;
 }
 
 
@@ -127,7 +166,7 @@ color: #333333;
         font-family: 'Poppins';
         font-style: normal;
         font-weight: 400;
-        font-size: 12px;
+        font-size: 9px;
         /* or 29px */
     
     
@@ -153,5 +192,10 @@ color: #333333;
         
         color: #333333;
         
+        }
+
+        .sm-screen {
+            width: 100%;
+            flex-direction: column;
         }
 }
