@@ -14,7 +14,7 @@ function Home() {
             <h3 className="text-center">Minimalist Room</h3>
             <div className="row">
               <div className="col"></div>
-              <div className="col text-center">
+              <div className="col text-center sm-screen">
                 <p>
                   It is a long established fact that a reader will be distracted by the
                   readable content of a page when looking at its layout.

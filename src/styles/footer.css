@@ -107,6 +107,7 @@
 
 .label-h4 {
     width: 100%;
+    margin: 0;
 
     /* Poppins/Regular/18 */
 
@@ -146,6 +147,7 @@
 
 
 @media only screen and (max-width: 1024px) {
+
     .jumbotron-h4 {
         font-family: 'Poppins';
         font-style: normal;
@@ -195,7 +197,10 @@
         }
 
         .sm-screen {
-            width: 100%;
-            flex-direction: column;
-        }
+            display: contents;
+         }
+
+         .sm-screen-b {
+            display: table-cell;
+         }
 }

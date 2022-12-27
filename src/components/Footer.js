@@ -37,9 +37,9 @@ function Footer() {
         <div className="row mx-auto sm-screen">
             <div className="col-6">
                 <img className="pl-4 pt-2" src={dananz} alt="" />
-                <h4 className="h4-nxting">One of the best furniture agency.</h4>
+                <h4 className="h4-nxting sm-screen">One of the best furniture agency.</h4>
             </div>
-            <div className="col-6">
+            <div className="col-6 sm-screen-b">
                 <label>
                     <h4 className="label-h4">
                         &#x2022; Enter  your email to get the laterst news
